@@ -1,0 +1,22 @@
+{
+  "name": "node-scikit-learn",
+  "version": "0.1.0",
+  "description": "Node.js bindings to Python's Scikit-Learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Glavin001/node-scikit-learn.git"
+  },
+  "author": "Glavin Wiechert <glavin.wiechert@gmail.com> (https://github.com/Glavin001)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Glavin001/node-scikit-learn/issues"
+  },
+  "homepage": "https://github.com/Glavin001/node-scikit-learn",
+  "dependencies": {
+    "node-python": "0.0.4"
+  }
+}
